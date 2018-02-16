@@ -1,0 +1,20 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1.
+I learned a lot of new things about the basic foundation of html. The resemblance with trees, the representation with trees, the doctype tag, the <figure></figure> and the <figcaption></figcaption> tags, how to address a problem and the list goes on.
+
+2.
+Learning an accessing resources has been easy also, with real life examples it's made a lot more easier to learn webdev.
+
+3.
+In my opinion, figuring out the needs of the questions has been a little difficult. for e.g:- for the button element question, i wrote the whole html boilerplate and it was displayed as a wrong answer until i could figure out that only the <button></button> was required.
+
+4.
+As i said, problem solving has been easy, the real world examples, the forum, the slack team everything is super helpful. The most important thing you guys have taught about problem solving is how to make full use of the resources around. Thank you.
