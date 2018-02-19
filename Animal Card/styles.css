@@ -19,6 +19,11 @@ img{
 }
 
 .list-item{
-	font-weight: bold;
+  font-weight: bold;
 }
 
+ul{
+  list-style-type: none;
+  padding: 0;
+  }
+	
